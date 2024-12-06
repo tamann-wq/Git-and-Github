@@ -1,1 +1,1 @@
-# Git-and-Github
+Project in git
